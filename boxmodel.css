@@ -1,0 +1,60 @@
+.boxmodel {
+  /* height: 40px;
+  width: 50px;
+
+  background-color: aqua; */
+  /* padding-left: 30px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  padding-right: 30px; */
+  /* padding: 50px 100px 200px 300px;
+  border-top: darkred ridge 20px;
+  border-right: yellow dotted 30px;
+  border-bottom: greenyellow dashed 20px;
+  border-left: maroon solid 20px; */
+  /* border: double red 2px;
+  border-bottom: none;
+  margin-top: 100px;
+  margin-bottom: 200px;
+  margin-left: 100px;
+  margin-right: 150px; */
+  /* background-color: rgb(16, 170, 93);
+  padding: 50px 100px 50px 100px;
+  border: rgb(207, 80, 6) solid 20px;
+  margin: 50px 200px 100px 150px;
+  /* border-radius: 500px; */
+  /* border-top-left-radius: 50px;
+  border-bottom-right-radius: 50px;
+  border-bottom-left-radius: 50px; */ */
+}
+
+/* .input {
+  margin-top: 250px;
+} */
+
+/* .para {
+  color: royalblue;
+  background-color: springgreen;
+  text-decoration-line: underline;
+  text-decoration-line: overline;
+  font-size: 25px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-weight: bold;
+  font-style: italic;
+} */
+
+.parent{
+  height: 1500px;
+  width: auto;
+  background-color: rgb(224, 169, 169);
+  background-image: url(/Realmadrid2017.jpg),
+  url(/Brand\ logo.jpg);
+  background-repeat: no-repeat;
+  /* background-size: ; */
+  /* background-position:left top ,right top; */
+   /* background-attachment: scroll,fixed;   */
+   /* fixed */
+
+
+}

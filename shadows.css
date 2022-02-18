@@ -1,0 +1,11 @@
+.shadow {
+  /* text-shadow: crimson 5px 5px 5px
+  ; */
+  /* text-shadow: darkgreen -5px -5px 5px; */
+
+  /* minus mai top aur left k liye use karte */
+  /* blur show karne k liye blur 3rd value ko positive mai rakhne ka 
+   */
+  /* text-shadow: rgb(126, 189, 107) 3px 3px 4px, yellowgreen -3px -3px 5px; */
+  text-shadow: greenyellow;
+}
